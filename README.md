@@ -1,12 +1,6 @@
 ## Khushaan Virk
 
-Electrical Engineering at UBC (BASc, expected 2028). I build embedded and hardware systems, and the software that makes them measurable.
-
-Right now I'm a Software Engineer at **Advizr**, shipping Python/FastAPI backends and automation pipelines for client systems in production. Before that, most of my work has been closer to the silicon: STM32 and 8051 firmware, discrete MOSFET motor drivers, analog signal conditioning, and a 4-layer PCB I took all the way through fab, assembly and bring-up.
-
-The thread through all of it is pulling a trustworthy signal out of a noisy physical system, then proving how well it actually worked.
-
-**Looking for:** an engineering co-op in embedded, firmware, hardware, or systems software.
+Electrical Engineering at UBC (BASc, expected 2028)
 
 ---
 
